@@ -9,8 +9,9 @@ export default function App(){
     // '00s Hits' Playlist ID: 248297032
     // 'HITS 2023 - Today's Top Songs' Playlist ID: 9890417302
     // '2010s party hits' Playlist ID: 715215865
+    // waterparksdle playlist ID: 13217687663
 
-    var playlist_ids = [248297032, 9890417302, 715215865]
+    var playlist_ids = [13217687663]
     var playlist = playlist_ids[Math.floor(Math.random() * playlist_ids.length)];
 
     async function getTodaysSong() {
