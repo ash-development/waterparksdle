@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/waterparksdle/static/css/main.0e2bba01.css",
-    "main.js": "/waterparksdle/static/js/main.73a4784a.js",
+    "main.js": "/waterparksdle/static/js/main.6c2585ed.js",
     "static/media/Circular.otf": "/waterparksdle/static/media/Circular.757b8ac8efa71be3fcd0.otf",
     "static/media/CircularLight.otf": "/waterparksdle/static/media/CircularLight.5e12df08ca91cc19e9e7.otf",
     "static/media/heardle.png": "/waterparksdle/static/media/heardle.f04ff26aa88ba0bf3163.png",
     "index.html": "/waterparksdle/index.html",
     "main.0e2bba01.css.map": "/waterparksdle/static/css/main.0e2bba01.css.map",
-    "main.73a4784a.js.map": "/waterparksdle/static/js/main.73a4784a.js.map"
+    "main.6c2585ed.js.map": "/waterparksdle/static/js/main.6c2585ed.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2bba01.css",
-    "static/js/main.73a4784a.js"
+    "static/js/main.6c2585ed.js"
   ]
 }
